@@ -31,7 +31,7 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
 <br>
 # Program
 
-#### Confirmed Invited Speakers and Panelists
+<!-- #### Confirmed Invited Speakers and Panelists -->
 
 TBD
 
