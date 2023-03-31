@@ -68,7 +68,7 @@ TBD
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/taylor.jpg"/>
     <br>
-    <h5>Ross Taylor</h5> Google
+    <h5>Ross Taylor</h5> Meta AI
   </div>
 </div>
 <br>
