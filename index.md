@@ -31,9 +31,7 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
 <br>
 # Program
 
- #### Confirmed Invited Speakers and Panelists 
-
-TBD
+#### Confirmed Invited Speakers and Panelists 
 
 <div class="container">
 <div class="row no-gutters">
@@ -74,7 +72,7 @@ TBD
 <br>
 <div class="row no-gutters">
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/ting.jpg"/>
+    <img style="width:30%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/ting.jpg"/>
     <br>
     <h5>Yuan-Sen Ting</h5>ANU
   </div>
