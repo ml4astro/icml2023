@@ -77,16 +77,7 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
     <br>
     <h5>Yuan-Sen Ting</h5>ANU
   </div>
-  <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/scaiffe.png"/>
-    <br>
-    <h5>Anna Scaiffe</h5> University of Manchester
-  </div>
-  <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/taylor.jpg"/>
-    <br>
-    <h5>Ross Taylor</h5> Meta AI
-  </div>
+  
 </div>
 <br>  
 
