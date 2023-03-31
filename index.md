@@ -31,63 +31,57 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
 <br>
 # Program
 
-<!-- #### Confirmed Invited Speakers and Panelists -->
+ #### Confirmed Invited Speakers and Panelists 
 
 TBD
 
-<!--
 <div class="container">
 <div class="row no-gutters">
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/josh-bloom-660x745-cropped.jpg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/duev.jpg"/>
     <br>
-    <h5>Josh Bloom</h5>UC Berkeley
+    <h5>Dimitry Duev</h5>Weights&Biases
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/bouman2.jpg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/finn.jpg"/>
     <br>
-    <h5>Katie Bouman</h5>Caltech
+    <h5>Chelsea Finn</h5>Standford
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/Daniela.jpg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/hogg.png"/>
     <br>
-    <h5>Daniela Huppenkothen</h5>SRON
+    <h5>David Hogg</h5>NYU/CCA
   </div>
 </div>
 <br>
 <div class="row no-gutters">
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/JakobMacke.jpg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/melchior.jpg"/>
     <br>
-    <h5>Jakob Macke</h5>Tübingen University
+    <h5>Peter Melchior</h5>Princeton
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/Levasseur_Laurence-509x676.jpg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/scaiffe.png"/>
     <br>
-    <h5>Laurence Perreault-Levasseur</h5> University of Montreal
+    <h5>Anna Scaiffe</h5> University of Manchester
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/dtran.png"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/taylor.jpg"/>
     <br>
-    <h5>Dustin Tran</h5> Google
+    <h5>Ross Taylor</h5> Google
   </div>
 </div>
 <br>
 <div class="row no-gutters">
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/george_stein.jpeg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/ting.jpg"/>
     <br>
-    <h5>George Stein</h5>UC Berkeley
-  </div>
-  <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2022/assets/svillar.jpg"/>
-    <br>
-    <h5>Soledad Villar</h5>Johns Hopkins University
+    <h5>Yuan-Sen Ting</h5>ANU
   </div>
   <div class="col center-block text-center">
   </div>
 </div>
-</div> -->
+</div> 
 
 <br>
 
