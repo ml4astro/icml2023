@@ -31,6 +31,7 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
 <br>
 # Program
 
+
 #### Confirmed Invited Speakers and Panelists 
 
 <div class="container">
@@ -72,12 +73,23 @@ Contributions on these topics do not necessarily need to be Astrophysics-focused
 <br>
 <div class="row no-gutters">
   <div class="col center-block text-center">
-    <img style="width:30%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/ting.jpg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/ting.jpg"/>
     <br>
     <h5>Yuan-Sen Ting</h5>ANU
   </div>
   <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/scaiffe.png"/>
+    <br>
+    <h5>Anna Scaiffe</h5> University of Manchester
   </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/taylor.jpg"/>
+    <br>
+    <h5>Ross Taylor</h5> Meta AI
+  </div>
+</div>
+<br>  
+
 </div>
 </div> 
 
