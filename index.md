@@ -106,6 +106,7 @@ Please submit your anonymized extended abstract through CMT at (TBD) **before Ma
 ---
 
 <br>
+
 # Logistics and FAQs
 
 ICML 2023 is currently planned as an in-person event. As such, this workshop is currently assuming a hybrid format, with physical poster sessions and in-person speakers, but with support for virtual elements to facilitate participation of people unable to travel. We encourage all interested participants (regardless of their ability to physically travel to ICML) to submit an extended abstracts.
@@ -115,6 +116,7 @@ Registration for ICML workshops is handled through the main ICML conference regi
 Inquiries regarding the workshop can be directed to <icml2023ml4astro@gmail.com>
 
 <br>
+
 # Important Dates
 
 _Dates are still preliminary and subject to change._ All dates are in AOE (Anywhere on Earth).
@@ -126,6 +128,7 @@ _Dates are still preliminary and subject to change._ All dates are in AOE (Anywh
 - **Workshop date**: July 28th or 29th
 
 <br>
+
 # Instructions for Posters
 
 To prepare your poster, please use the following dimensions:
@@ -140,6 +143,7 @@ You will be able to submit your poster at this link: [https://icml.cc/PosterUplo
 ---
 
 <br>
+
 # SOC
 
 Scientific Organizing Committee for the ICML 2023 Machine Learning for Astrophysics workshop:
