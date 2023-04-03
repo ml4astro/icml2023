@@ -7,9 +7,11 @@ background: "/assets/background.jpg"
 
 As modern astrophysical surveys deliver an unprecedented amount of data, from the imaging of hundreds of millions of distant galaxies to the mapping of cosmic radiation fields at ultra-high resolution, conventional data analysis methods are reaching their limits in both computational complexity and optimality. Deep Learning has rapidly been adopted by the astronomical community as a promising way of exploiting these forthcoming big-data datasets and of extracting the physical principles that underlie these complex observations. This has led to an unprecedented exponential growth of publications combining Machine Learning and astrophysics. Yet, many of these works remain at an exploratory level and have not been translated into real scientific breakthroughs.
 
-Following a successful initial iteration of this workshop at [ICML 2022](https://ml4astro.github.io/icml2022/), our continued goal for this workshop series is to bring together Machine Learning researchers and domain experts in the field of Astrophysics to discuss the key open issues which hamper the use of Deep Learning for scientific discovery, and to present high-quality and cutting-edge work at the intersection between machine learning and astrophysics. An important aspect to the success of Machine Learning in Astrophysics is to create a two-way interdisciplinary dialog in which concrete data-analysis challenges can spur the development of dedicated Machine Learning tools, which this workshop aims to facilitate. We expect this workshop to appeal to ICML audiences as an opportunity to connect their research interests to concrete and outstanding scientific challenges.
+Following a successful initial iteration of this workshop at [ICML 2022](https://ml4astro.github.io/icml2022/), our continued goal for this workshop series is to **bring together Machine Learning researchers and domain experts in the field of Astrophysics** to discuss the key open issues which hamper the use of Deep Learning for scientific discovery, and to present high-quality and cutting-edge work at the intersection between machine learning and astrophysics.
 
-We welcome in particular submissions that target or report on the following non-exhaustive list of problems:
+An important aspect to the success of Machine Learning in Astrophysics is to create a two-way interdisciplinary dialog in which concrete data-analysis challenges can spur the development of dedicated Machine Learning tools, which this workshop aims to facilitate. We expect this workshop to appeal to ICML audiences as an opportunity to connect their research interests to concrete and outstanding scientific challenges.
+
+We welcome in particular submissions that target or _report on_ the following non-exhaustive list of problems:
 
 - Efficient high-dimensional inference
 - Robustness to covariate shifts and model misspecification
@@ -95,7 +97,9 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 <br>
 # Call for Abstracts
 
-We invite all contributions in connection with the theme of the workshop as described [here](#rationale), from the fields of Astrophysics and Machine Learning, but also from other scientific fields facing similar challenges.
+We invite all contributions in connection with the theme of the workshop as described [here](#rationale).
+
+An important selection criterion will be the novelty of the work - novel methodologies and novel applications. Applications of standard and established deep learning techniques to a new astrophysical data set are not considered as novel applications in this context.
 
 Original contributions and early research works are encouraged. Contributions presenting recently published or currently under review results are also welcome. The workshop will not have formal proceedings, but accepted submissions will be linked on the workshop webpage.
 
