@@ -39,7 +39,7 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/duev.jpg"/>
     <br>
-    <h5>Dimitry Duev</h5>Weights&Biases
+    <h5>Dimitry Duev</h5>Weights & Biases
   </div>
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/finn.jpg"/>
@@ -49,7 +49,7 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/hezaveh.jpg"/>
     <br>
-    <h5>Yashar Hezaveh</h5>University of Montreal/MILA
+    <h5>Yashar Hezaveh</h5>University of Montreal
   </div>
 </div>
 <br>
@@ -57,7 +57,7 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/hogg.png"/>
     <br>
-    <h5>David W. Hogg</h5>NYU/CCA
+    <h5>David W. Hogg</h5>New York University
   </div>
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/melchior.jpg"/>
@@ -80,7 +80,7 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/ting.jpg"/>
     <br>
-    <h5>Yuan-Sen Ting</h5>ANU
+    <h5>Yuan-Sen Ting</h5>Australian National University
   </div>
   <div class="col center-block text-center">
    
