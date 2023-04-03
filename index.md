@@ -105,7 +105,7 @@ Original contributions and early research works are encouraged. Contributions pr
 
 Submissions, in the form of extended abstracts, need to adhere to the [ICML 2023 format](https://icml.cc/Conferences/2023/StyleAuthorInstructions) ([LaTeX style files](https://media.icml.cc/Conferences/ICML2023/Styles/icml2023.zip)), be anonymized, and be no longer than 4 pages (excluding references). After double-blind review, a limited set of submissions will be selected for contributed talks, and a wider set of submissions will be selected for poster presentations.
 
-Please submit your anonymized extended abstract through CMT at (https://cmt3.research.microsoft.com/ML4Astro2023) **before May 19th, 23:59 AOE**.
+Please submit your anonymized extended abstract through CMT at [https://cmt3.research.microsoft.com/ML4Astro2023](https://cmt3.research.microsoft.com/ML4Astro2023) **before May 19th, 23:59 AOE**.
 
 ---
 
