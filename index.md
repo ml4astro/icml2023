@@ -111,6 +111,16 @@ Please submit your anonymized extended abstract through CMT at [https://cmt3.res
 
 <br>
 
+# Volunteering to serve as a Reviewer
+
+Our goal is to ensure that all extended abstracts will receive at least two independent reviews, in a double-blind process. As we aim for high quality and constructive reviews, we do not want to ask volunteers to review many papers, which translates into needing a large pool of volunteers. 
+
+As a result we are always looking for volunteers to help us review workshop submissions. If you are interested in serving as a reviewer, please let us know through [this form](https://forms.gle/cABQNPibBqdXKaa88) before **May 25th**. Depending on the reviewing needs we may then contact you with further details and to confirm your availability.
+
+---
+
+<br>
+
 # Logistics and FAQs
 
 ICML 2023 is currently planned as an in-person event. As such, this workshop is currently assuming a hybrid format, with physical poster sessions and in-person speakers, but with support for virtual elements to facilitate participation of people unable to travel. We encourage all interested participants (regardless of their ability to physically travel to ICML) to submit an extended abstracts.
