@@ -105,7 +105,7 @@ Original contributions and early research works are encouraged. Contributions pr
 
 Submissions, in the form of extended abstracts, need to adhere to the [ICML 2023 format](https://icml.cc/Conferences/2023/StyleAuthorInstructions) ([LaTeX style files](https://media.icml.cc/Conferences/ICML2023/Styles/icml2023.zip)), be anonymized, and be no longer than 4 pages (excluding references). After double-blind review, a limited set of submissions will be selected for contributed talks, and a wider set of submissions will be selected for poster presentations.
 
-Please submit your anonymized extended abstract through CMT at [https://cmt3.research.microsoft.com/ML4Astro2023](https://cmt3.research.microsoft.com/ML4Astro2023) **before May 19th, 23:59 AOE**.
+Please submit your anonymized extended abstract through CMT at [https://cmt3.research.microsoft.com/ML4Astro2023](https://cmt3.research.microsoft.com/ML4Astro2023) **before <s>May 19th</s> May 25th, 23:59 AOE**.
 
 ---
 
@@ -123,13 +123,13 @@ Inquiries regarding the workshop can be directed to <icml2023ml4astro@gmail.com>
 
 # Important Dates
 
-_Dates are still preliminary and subject to change._ All dates are in AOE (Anywhere on Earth).
+All dates are in AOE (Anywhere on Earth).
 
-- **Submission deadline**: May 19th
+- **Submission deadline**: <s>May 19th</s> May 25th (23:59 AOE)
 - **Author Notification**: June 16th
 - **Camera-ready paper deadline**: July 10th
 - **Camera-ready poster deadline**: July 21st (see instructions below)
-- **Workshop date**: July 28th or 29th
+- **Workshop date**: Saturday July 29th, 9am to 5pm local time in Honolulu, Hawaii (UTC-10)
 
 <br>
 
