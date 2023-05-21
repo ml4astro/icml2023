@@ -22,4 +22,4 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 
 **Checkout the website**: https://ml4astro.github.io/icml2023/
 
-**Abstract submission deadline**: May 19th
+**Abstract submission deadline**: May <s>19th</s> 25th
