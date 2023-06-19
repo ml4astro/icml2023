@@ -73,7 +73,7 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 <br>
 <div class="row no-gutters">
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/scaiffe.png"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/irina-rish.jpg"/>
     <br>
     <h5>Irina Rish</h5>University of Montreal
   </div>
@@ -86,11 +86,6 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/taylor.jpg"/>
     <br>
     <h5>Ross Taylor</h5> Meta AI
-  </div>
-  <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/ting.jpg"/>
-    <br>
-    <h5>Yuan-Sen Ting</h5>Australian National University
   </div>
 </div>
 <br>
