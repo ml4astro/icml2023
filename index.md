@@ -37,6 +37,11 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 <div class="container">
 <div class="row no-gutters">
   <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/ansdell.jpeg"/>
+    <br>
+    <h5>Megan Ansdell</h5>NASA
+  </div>
+  <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/duev.jpg"/>
     <br>
     <h5>Dmitry Duev</h5>Weights & Biases
@@ -46,14 +51,14 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
     <br>
     <h5>Chelsea Finn</h5>Standford
   </div>
+</div>
+<br>
+<div class="row no-gutters">
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/hezaveh.jpg"/>
     <br>
     <h5>Yashar Hezaveh</h5>University of Montreal
   </div>
-</div>
-<br>
-<div class="row no-gutters">
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/hogg.png"/>
     <br>
@@ -64,14 +69,19 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
     <br>
     <h5>Peter Melchior</h5>Princeton
   </div>
+</div>
+<br>
+<div class="row no-gutters">
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/scaiffe.png"/>
+    <br>
+    <h5>Irina Rish</h5>University of Montreal
+  </div>
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/scaiffe.png"/>
     <br>
     <h5>Anna Scaiffe</h5> University of Manchester
   </div>
-</div>
-<br>
-<div class="row no-gutters">
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/taylor.jpg"/>
     <br>
@@ -82,11 +92,18 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
     <br>
     <h5>Yuan-Sen Ting</h5>Australian National University
   </div>
-  <div class="col center-block text-center">
-   
-  </div>
+</div>
 <br>
-
+<div class="row no-gutters">
+  <div class="col center-block text-center">
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/ting.jpg"/>
+    <br>
+    <h5>Yuan-Sen Ting</h5>Australian National University
+  </div>
+  <div class="col center-block text-center">
+  </div>
 </div>
 </div>
 
