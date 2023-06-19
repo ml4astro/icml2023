@@ -136,7 +136,7 @@ Inquiries regarding the workshop can be directed to <icml2023ml4astro@gmail.com>
 All dates are in AOE (Anywhere on Earth).
 
 - **Submission deadline**: <s>May 19th</s> May 25th (23:59 AOE)
-- **Author Notification**: June 16th
+- **Author Notification**: June <s>16th</s> 19th
 - **Camera-ready paper deadline**: July 10th
 - **Camera-ready poster deadline**: July 21st (see instructions below)
 - **Workshop date**: Saturday July 29th, 9am to 5pm local time in Honolulu, Hawaii (UTC-10)
