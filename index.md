@@ -93,7 +93,7 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
   <div class="col center-block text-center">
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/ting.jpg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/YSTing_61.jpg"/>
     <br>
     <h5>Yuan-Sen Ting</h5>Australian National University
   </div>
