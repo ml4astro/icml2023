@@ -104,11 +104,110 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 
 <br>
 
----
+### Workshop Schedule
 
+All times are in Hawaii Time. Please visit the <a href="https://icml.cc/virtual/2023/workshop/21497">ICML Workshop Page</a> for live schedule (requires registration).
+
+<table class="table table-striped">
+  <tbody>      
+    <tr>
+      <th scope="row"><nobr>9:00:9:05</nobr> </th>
+      <td>Introduction</td>
+      <td>Welcome and Introduction of the Workshop</td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>9:05-9:35</nobr> </th>
+      <td>Keynote</td>
+      <td>Chelsea Finn: Mitigating Distribution Shifts</td>
+    </tr>     
+    <tr>
+      <th scope="row"><nobr>9:35-9:50</nobr> </th>
+      <td>Spotlight</td>
+      <td>Vidhi Ramesh: <a href='/icml2023/assets/81.pdf'>Shared Stochastic Gaussian process Decoders: A Probabilistic Generative model for Quasar Spectra</a></td>
+    </tr> 
+    <tr>
+      <th scope="row"><nobr>9:50-10:05</nobr> </th>
+      <td>Spotlight</td>
+      <td>Yitian Sun: <a href='/icml2023/assets/52.pdf'>Disentangling gamma-ray observations of the Galactic Center using differentiable probabilistic programming</a> </td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>10:05-10:30</nobr> </th>
+      <td>Break</td>
+      <td>Morning Coffee Break</td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>10:30-11:00</nobr> </th>
+      <td>Keynote</td>
+      <td>Anna Scaife: Foundation Models for Radio Astronomy</td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>11:00-11:15</nobr> </th>
+      <td>Spotlight</td>
+      <td>Daniel Moreno-Cartagena: <a href='/icml2023/assets/55.pdf'>Positional Encodings for Light Curve Transformers: Playing with Positions and Attention</a> </td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>11:15-11:30</nobr> </th>
+      <td>Spotlight</td>
+      <td>Alice Desmons: <a href='/icml2023/assets/32.pdf'>Detecting Tidal Features using Self-Supervised Learning</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>11:30-11:45</nobr> </th>
+      <td>Spotlight</td>
+      <td>Jonas Wildberger: <a href='/icml2023/assets/79.pdf'>Flow Matching for Scalable Simulation-Based Inference</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>11:45-12:00</nobr> </th>
+      <td>Spotlight</td>
+      <td>Eve Campeau-Poirier: <a href='/icml2023/assets/74.pdf'>Time Delay Cosmography with a Neural Ratio Estimator</a></td>
+    </tr>
+      <tr>
+        <th scope="row"><nobr>12:00-13:00</nobr> </th>
+        <td>Break</td>
+        <td>Lunch Break </td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>13:00-13:30</nobr> </th>
+        <td> Keynote </td>
+        <td> Dmitry Duev: Astrophysics Meets MLOps</td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>13:30-13:45</nobr> </th>
+        <td>Spotlight</td>
+        <td>Carolina Cuesta: <a href='/icml2023/assets/59.pdf'>Diffusion generative modeling for galaxy surveys: emulating clustering for inference at the field level</a></td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>13:45-14:00</nobr> </th>
+        <td>Spotlight</td>
+        <td>Adrian Bayer: <a href='/icml2023/assets/76.pdf'>Field-Level Inference with Microcanonical Langevin Monte Carlo</a></td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>14:00-14:15</nobr> </th>
+        <td>Spotlight</td>
+        <td>Matt Sampson: <a href='/icml2023/assets/43.pdf'>Spotting Hallucinations in Inverse Problems with Data-Driven Priors</a></td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>14:15-14:45</nobr> </th>
+        <td> Keynote </td>
+        <td> Ross Taylor: Teaching LLMs to Reason </td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>14:45-16:00</nobr> </th>
+        <td> Poster Session </td>
+        <td> Main Poster Session </td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>16:00-17:00</nobr> </th>
+        <td> Panel Discussion </td>
+        <td> How will new technologies such as foundation models/generative models/LLMs change the way we do scientific discoveries?<br>
+        <b>Panelists</b>: Megan Andsell, Yashar Hezaveh, David W. Hogg, Peter Melchior, Irina Rish, Yuan-Sen Ting</td>
+      </tr>
+  </tbody>
+</table>
+
+<br>
 ### Accepted Contributions
 
-<table>
+<table class="table table-striped">
   <tr>
     <td><a href='/icml2023/assets/11.pdf'>Cosmological Data Compression and Inference with Self-Supervised Machine Learning</a></td>
     <td>Akhmetzhanova, Aizhan*; Mishra-Sharma, Siddharth; Dvorkin, Cora</td>
