@@ -32,7 +32,7 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 
 # Program
 
-#### Confirmed Invited Speakers and Panelists
+### Invited Speakers and Panelists
 
 <div class="container">
 <div class="row no-gutters">
@@ -103,6 +103,173 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 </div>
 
 <br>
+
+---
+
+### Accepted Contributions
+
+<table>
+  <tr>
+    <td><a href='/icml2023/assets/11.pdf'>Cosmological Data Compression and Inference with Self-Supervised Machine Learning</a></td>
+    <td>Akhmetzhanova, Aizhan*; Mishra-Sharma, Siddharth; Dvorkin, Cora</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/22.pdf'>Bayesian Uncertainty Quantification in High-dimensional Stellar Magnetic Field Models</a></td>
+    <td>Andersson, Jennifer R*; Kochukhov, Oleg ; Zhao, Zheng; Sjölund, Jens</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/76.pdf'>Field-Level Inference with Microcanonical Langevin Monte Carlo</a></td>
+    <td>Bayer, Adrian*; Seljak, Uros; Modi, Chirag</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/45.pdf'>Graph Representation of the Magnetic Field Topology in High-Fidelity Plasma Simulations for Machine Learning Applications</a></td>
+    <td>Bouri, Ioanna*; Franssila, Fanni; Alho, Markku; Cozzani, Giulia; Zaitsev, Ivan; Palmroth, Minna; Roos, Teemu</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/49.pdf'>Domain Adaptation via Minimax Entropy for Real/Bogus Classification of Astronomical Alerts</a></td>
+    <td>Cabrera-Vives, Guillermo*; Bolívar, César Andrés; Förster, Francisco; Muñoz Arancibia, Alejandra M.; Pérez-Carrasco, Manuel; reyes, esteban dirk</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/74.pdf'>Time Delay Cosmography with a Neural Ratio Estimator</a></td>
+    <td>Campeau-Poirier, Ève*; Perreault-Levasseur, Laurence; Coogan, Adam; Hezaveh, Yashar</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/24.pdf'>A Comparative Study on Generative Models for High Resolution Solar Observation Imaging</a></td>
+    <td>Cherti, Mehdi*; Czernik, Alexander; Kesselheim, Stefan; Effenberger, Frederic; Jitsev, Jenia</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/35.pdf'>Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy</a></td>
+    <td>Ciuca, Ioana*; Ting, Yuan-Sen; Kruk, Sandor; Iyer, Kartheik</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/59.pdf'>Diffusion generative modeling for galaxy surveys: emulating clustering for inference at the field level</a></td>
+    <td>Cuesta, Carolina*; Mishra-Sharma, Siddharth</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/69.pdf'>Multiscale Flow for Robust and Optimal Cosmological Analysis</a></td>
+    <td>Dai, Biwei*; Seljak, Uros</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/32.pdf'>Detecting Tidal Features using Self-Supervised Learning</a></td>
+    <td>Desmons, Alice*; Brough, Sarah; Lanusse, Francois</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/4.pdf'>Multi-fidelity Emulator for Cosmological Large Scale 21 cm Lightcone Images: a Few-shot Transfer Learning Approach with GAN</a></td>
+    <td>Diao, Kangning*; Mao, Yi</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/50.pdf'>SimBIG: Galaxy Clustering beyond the Power Spectrum</a></td>
+    <td>Hahn, ChangHoon*; Lemos, Pablo; Régaldo-Saint Blancard, Bruno; Parker, Liam H; Eickenberg, Michael; Ho, Shirley; Hou, Jiamin; Massara, Elena ; Modi, Chirag; Moradinezhad Dizgah, Azadeh; Spergel, David</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/10.pdf'>Cosmology with Galaxy Photometry Alone</a></td>
+    <td>Hahn, ChangHoon*; Melchior, Peter M; Villaescusa-Navarro, Francisco; Teyssier, Romain</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/81.pdf'>Shared Stochastic Gaussian process Decoders: A Probabilistic Generative model for Quasar Spectra</a></td>
+    <td>Lalchand, Vidhi *; Eilers, Anna-Christina</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/40.pdf'>Closing the stellar labels gap: An unsupervised, generative model for Gaia BP/RP spectra</a></td>
+    <td>Laroche, Alexander L*; Speagle, Joshua S</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/70.pdf'>Towards Unbiased Gravitational-Wave Parameter Estimation using Score-Based Likelihood Characterization</a></td>
+    <td>Legin, Ronan*; Wong, Kaze; Isi, Maximiliano; Adam, Alexandre; Perreault-Levasseur, Laurence; Hezaveh, Yashar</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/48.pdf'>SimBIG: Field-level Simulation-based Inference of Large-scale Structure</a></td>
+    <td>Lemos, Pablo*; Parker, Liam H; Hahn, ChangHoon; Ho, Shirley; Eickenberg, Michael; Hou, Jiamin; Massara, Elena ; Modi, Chirag; Moradinezhad Dizgah, Azadeh; Régaldo-Saint Blancard, Bruno; Spergel, David</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/68.pdf'>Using Multiple Vector Channels Improves $E(n)$-Equivariant Graph Neural Networks</a></td>
+    <td>Levy, Daniel*; Kaba, Sékou-Oumar; Gonzales, Carmelo; Miret, Santiago; Ravanbakhsh, Siamak</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/29.pdf'>Population-Level Inference for Galaxy Properties from Broadband Photometry</a></td>
+    <td>Li, Jiaxuan*; Melchior, Peter M; Hahn, ChangHoon; Huang, Song</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/63.pdf'>A Hierarchy of Normalizing Flows for Modelling the Galaxy-Halo Relationship</a></td>
+    <td>Lovell, Christopher C*; Hassan, Sultan; Villaescusa-Navarro, Francisco; Genel, Shy; Hahn, ChangHoon; Angles-Alcazar, Daniel; Kwon, James; de Santi, Natali; Iyer, Kartheik; Fabbian, Giulio; Bryan, Greg</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/6.pdf'>PPDONet: Deep Operator Networks for Fast Prediction of Steady-State Solutions in Disk-Planet Systems</a></td>
+    <td>Mao, Shunyuan*; Dong, Ruobing; Lu, Lu; Yi, Kwang Moo; Wang, Sifan; Perdikaris, Paris</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/55.pdf'>Positional Encodings for Light Curve Transformers: Playing with Positions and Attention</a></td>
+    <td>Moreno-Cartagena, Daniel A; Cabrera-Vives, Guillermo*; Protopapas, Pavlos; Donoso, Cristobal R; Pérez-Carrasco, Manuel Ignacio; Cádiz-Leyton, Martina A</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/16.pdf'>Neural Astrophysical Wind Models</a></td>
+    <td>Nguyen, Dustin*</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/53.pdf'>FLORAH: A generative model for halo assembly histories</a></td>
+    <td>Nguyen, Tri*; Modi, Chirag; Somerville, Rachel; Yung, Aaron</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/19.pdf'>Multi-Class Deep SVDD: Anomaly Detection Approach in Astronomy with Distinct Inlier Categories</a></td>
+    <td>Pérez-Carrasco, Manuel Ignacio*; Cabrera-Vives, Guillermo; Hernandez-García, Lorena; Förster, Francisco; Sanchez-Saez, Paula; Muñoz-Arancibia, Alejandra; Astorga, Nicolás; Bauer, Franz; Bayo, Amelia; Cádiz-Leyton, Martina A; Catelan, Márcio; Estevez, Pablo</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/54.pdf'>BTSbot: A Multi-input Convolutional Neural Network to Automate and Expedite Bright Transient Identification for the Zwicky Transient Facility</a></td>
+    <td>Rehemtulla, Nabeel*; Miller, Adam; Coughlin, Michael; Jegou Du Laz, Theophile</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/65.pdf'>Toward a Spectral Foundation Model: An Attention-Based Approach with Domain-Inspired Fine-Tuning and Wavelength Parameterization</a></td>
+    <td>Różański, Tomasz; Ting, Yuan-Sen*; Jablonska, Maja</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/43.pdf'>Spotting Hallucinations in Inverse Problems with Data-Driven Priors</a></td>
+    <td>Sampson, Matt L*; Melchior, Peter M</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/18.pdf'>Evaluating Summary Statistics with Mutual Information for Cosmological Inference</a></td>
+    <td>Sui, Ce*; Zhao, Xiaosheng; Jing, Tao; Mao, Yi</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/52.pdf'>Disentangling gamma-ray observations of the Galactic Center using differentiable probabilistic programming</a></td>
+    <td>Sun, Yitian*; Mishra-Sharma, Siddharth; Slatyer, Tracy R; Wu, Yuqing</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/28.pdf'>Weisfeiler-Lehman Graph Kernel Method: A New Approach to Weak Chemical Tagging</a></td>
+    <td>Ting, Yuan-Sen*; Sharma, Bhavesh</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/58.pdf'>A Novel Application of Conditional Normalizing Flows: Stellar Age Inference with Gyrochronology</a></td>
+    <td>Van-Lane, Phil*; Speagle, Joshua S; Douglas, Stephanie</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/79.pdf'>Flow Matching for Scalable Simulation-Based Inference</a></td>
+    <td>Wildberger, Jonas Bernhard*; Dax, Maximilian; Buchholz, Simon; Green, Stephen R; Macke , Jakob; Schölkopf, Bernhard</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/1.pdf'>Learning the galaxy-environment connection with graph neural networks</a></td>
+    <td>Wu, John F*; Jespersen, Christian</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/37.pdf'>Diffusion Models for Probabilistic Deconvolution of Galaxy Images</a></td>
+    <td>Xue, Zhiwei; Li, Yuhang; Patel, Yash P*; Regier, Jeffrey</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/33.pdf'>A cross-modal  adversarial learning method for estimating photometric redshift of quasars</a></td>
+    <td>Zhang, Chen*; Zhang, Yanxia; Jiang, Bin; Qu, Meixia; Wang, Wenyu</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/71.pdf'>nbi: the Astronomer's Package for Neural Posterior Estimation</a></td>
+    <td>Zhang, Keming*; Bloom, Joshua; Hernitschek, Nina</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/72.pdf'>Stellar Spectra Fitting with Amortized Neural Posterior Estimation and nbi</a></td>
+    <td>Zhang, Keming*; Jayasinghe, Tharindu; Bloom, Joshua</td>
+  </tr>
+  <tr>
+    <td><a href='/icml2023/assets/26.pdf'>3D ScatterNet: Inference from 21 cm Light-cones</a></td>
+    <td>Zhao, Xiaosheng*; Zuo, Shifan; Mao, Yi</td>
+  </tr>
+</table>
 
 ---
 
