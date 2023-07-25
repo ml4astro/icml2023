@@ -353,7 +353,7 @@ All times are in Hawaii Time. Please visit the <a href="https://icml.cc/virtual/
     <td>Xue, Zhiwei; Li, Yuhang; Patel, Yash P*; Regier, Jeffrey</td>
   </tr>
   <tr>
-    <td><a href='/icml2023/assets/33.pdf'>A cross-modal  adversarial learning method for estimating photometric redshift of quasars</a></td>
+    <td><a href='/icml2023/assets/33.pdf'>A cross-modal adversarial learning method for estimating photometric redshift of quasars</a></td>
     <td>Zhang, Chen*; Zhang, Yanxia; Jiang, Bin; Qu, Meixia; Wang, Wenyu</td>
   </tr>
   <tr>
