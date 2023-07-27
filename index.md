@@ -118,17 +118,17 @@ All times are in Hawaii Time. Please visit the <a href="https://icml.cc/virtual/
     <tr>
       <th scope="row"><nobr>9:05-9:35</nobr> </th>
       <td>Keynote</td>
-      <td>**Chelsea Finn**: Detecting and Adapting to Distribution Shift</td>
+      <td><b>Chelsea Finn</b>: Detecting and Adapting to Distribution Shift</td>
     </tr>     
     <tr>
       <th scope="row"><nobr>9:35-9:50</nobr> </th>
       <td>Spotlight</td>
-      <td>**Vidhi Ramesh**: <a href='/icml2023/assets/81.pdf'>Shared Stochastic Gaussian process Decoders: A Probabilistic Generative model for Quasar Spectra</a></td>
+      <td><b>Vidhi Ramesh</b>: <a href='/icml2023/assets/81.pdf'>Shared Stochastic Gaussian process Decoders: A Probabilistic Generative model for Quasar Spectra</a></td>
     </tr> 
     <tr>
       <th scope="row"><nobr>9:50-10:05</nobr> </th>
       <td>Spotlight</td>
-      <td>**Yitian Sun**: <a href='/icml2023/assets/52.pdf'>Disentangling gamma-ray observations of the Galactic Center using differentiable probabilistic programming</a> </td>
+      <td><b>Yitian Sun</b>: <a href='/icml2023/assets/52.pdf'>Disentangling gamma-ray observations of the Galactic Center using differentiable probabilistic programming</a> </td>
     </tr>
     <tr>
       <th scope="row"><nobr>10:05-10:30</nobr> </th>
@@ -138,27 +138,27 @@ All times are in Hawaii Time. Please visit the <a href="https://icml.cc/virtual/
     <tr>
       <th scope="row"><nobr>10:30-11:00</nobr> </th>
       <td>Keynote</td>
-      <td>**Anna Scaife**: Foundation Models for Radio Astronomy</td>
+      <td><b>Anna Scaife</b>: Foundation Models for Radio Astronomy</td>
     </tr>
     <tr>
       <th scope="row"><nobr>11:00-11:15</nobr> </th>
       <td>Spotlight</td>
-      <td>**Daniel Moreno-Cartagena**: <a href='/icml2023/assets/55.pdf'>Positional Encodings for Light Curve Transformers: Playing with Positions and Attention</a> </td>
+      <td><b>Daniel Moreno-Cartagena</b>: <a href='/icml2023/assets/55.pdf'>Positional Encodings for Light Curve Transformers: Playing with Positions and Attention</a> </td>
     </tr>
     <tr>
       <th scope="row"><nobr>11:15-11:30</nobr> </th>
       <td>Spotlight</td>
-      <td>**Alice Desmons**: <a href='/icml2023/assets/32.pdf'>Detecting Tidal Features using Self-Supervised Learning</a></td>
+      <td><b>Alice Desmons</b>: <a href='/icml2023/assets/32.pdf'>Detecting Tidal Features using Self-Supervised Learning</a></td>
     </tr>
     <tr>
       <th scope="row"><nobr>11:30-11:45</nobr> </th>
       <td>Spotlight</td>
-      <td>**Jonas Wildberger**: <a href='/icml2023/assets/79.pdf'>Flow Matching for Scalable Simulation-Based Inference</a></td>
+      <td><b>Jonas Wildberger</b>: <a href='/icml2023/assets/79.pdf'>Flow Matching for Scalable Simulation-Based Inference</a></td>
     </tr>
     <tr>
       <th scope="row"><nobr>11:45-12:00</nobr> </th>
       <td>Spotlight</td>
-      <td>**Eve Campeau-Poirier**: <a href='/icml2023/assets/74.pdf'>Time Delay Cosmography with a Neural Ratio Estimator</a></td>
+      <td><b>Eve Campeau-Poirier</b>: <a href='/icml2023/assets/74.pdf'>Time Delay Cosmography with a Neural Ratio Estimator</a></td>
     </tr>
       <tr>
         <th scope="row"><nobr>12:00-13:00</nobr> </th>
@@ -168,27 +168,27 @@ All times are in Hawaii Time. Please visit the <a href="https://icml.cc/virtual/
       <tr>
         <th scope="row"><nobr>13:00-13:30</nobr> </th>
         <td> Keynote </td>
-        <td> **Dmitry Duev**: Astrophysics Meets MLOps</td>
+        <td><b>Dmitry Duev</b>: Astrophysics Meets MLOps</td>
       </tr>
       <tr>
         <th scope="row"><nobr>13:30-13:45</nobr> </th>
         <td>Spotlight</td>
-        <td>**Carolina Cuesta**: <a href='/icml2023/assets/59.pdf'>Diffusion generative modeling for galaxy surveys: emulating clustering for inference at the field level</a></td>
+        <td><b>Carolina Cuesta</b>: <a href='/icml2023/assets/59.pdf'>Diffusion generative modeling for galaxy surveys: emulating clustering for inference at the field level</a></td>
       </tr>
       <tr>
         <th scope="row"><nobr>13:45-14:00</nobr> </th>
         <td>Spotlight</td>
-        <td>**Adrian Bayer**: <a href='/icml2023/assets/76.pdf'>Field-Level Inference with Microcanonical Langevin Monte Carlo</a></td>
+        <td><b>Adrian Bayer</b>: <a href='/icml2023/assets/76.pdf'>Field-Level Inference with Microcanonical Langevin Monte Carlo</a></td>
       </tr>
       <tr>
         <th scope="row"><nobr>14:00-14:15</nobr> </th>
         <td>Spotlight</td>
-        <td>**Matt Sampson**: <a href='/icml2023/assets/43.pdf'>Spotting Hallucinations in Inverse Problems with Data-Driven Priors</a></td>
+        <td><b>Matt Sampson</b>: <a href='/icml2023/assets/43.pdf'>Spotting Hallucinations in Inverse Problems with Data-Driven Priors</a></td>
       </tr>
       <tr>
         <th scope="row"><nobr>14:15-14:45</nobr> </th>
         <td> Keynote </td>
-        <td>**Ross Taylor**: Teaching LLMs to Reason </td>
+        <td><b>Ross Taylor</b>: Teaching LLMs to Reason </td>
       </tr>
       <tr>
         <th scope="row"><nobr>14:45-16:00</nobr> </th>
@@ -413,11 +413,11 @@ Inquiries regarding the workshop can be directed to <icml2023ml4astro@gmail.com>
 
 All dates are in AOE (Anywhere on Earth).
 
-- **Submission deadline**: <s>May 19th</s> May 25th (23:59 AOE)
-- **Author Notification**: June <s>16th</s> 19th
-- **Camera-ready paper deadline**: July 10th
-- **Camera-ready poster deadline**: July 21st (see instructions below)
-- **Workshop date**: Saturday July 29th, 9am to 5pm local time in Honolulu, Hawaii (UTC-10)
+- **Submission deadline</b>: <s>May 19th</s> May 25th (23:59 AOE)
+- **Author Notification</b>: June <s>16th</s> 19th
+- **Camera-ready paper deadline</b>: July 10th
+- **Camera-ready poster deadline</b>: July 21st (see instructions below)
+- **Workshop date</b>: Saturday July 29th, 9am to 5pm local time in Honolulu, Hawaii (UTC-10)
 
 <br>
 
