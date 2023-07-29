@@ -143,7 +143,7 @@ All times are in Hawaii Time. Please visit the <a href="https://icml.cc/virtual/
     <tr>
       <th scope="row"><nobr>11:00-11:15</nobr> </th>
       <td>Spotlight</td>
-      <td><b>Daniel Moreno-Cartagena</b>: <a href='/icml2023/assets/55.pdf'>Positional Encodings for Light Curve Transformers: Playing with Positions and Attention</a> </td>
+      <td><b>Guillermo Cabrera-Vives</b>: <a href='/icml2023/assets/55.pdf'>Positional Encodings for Light Curve Transformers: Playing with Positions and Attention</a> </td>
     </tr>
     <tr>
       <th scope="row"><nobr>11:15-11:30</nobr> </th>
